@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\akryl\source\repos\Lab 2.0\Lab 2.0\MyForm.h(211,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab 2.0.vcxproj -> C:\Users\akryl\source\repos\Lab 2.0\x64\Debug\Lab 2.0.exe
