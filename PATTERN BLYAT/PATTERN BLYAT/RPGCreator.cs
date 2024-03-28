@@ -9,16 +9,16 @@ namespace PATTERN
     internal class RPGCreator
     {
         // создатель
-        public RPGStats Build(RPGBuilder RolePlay)
+        public void Build(RPGBuilder RPBuilder)
         {
-            RolePlay.CreateModel();
-            RolePlay.SetHP();
-            RolePlay.SetMP();
-            RolePlay.SetClassName();
-            RolePlay.SetName();
-            RolePlay.SetWeapon();
+            RPBuilder.CreateModel();
+            RPBuilder.SetHP();
+            RPBuilder.SetMP();
+            RPBuilder.SetClassName();
+            RPBuilder.SetName();
+            RPBuilder.SetWeapon();
             Console.Clear();
-            return RolePlay.RPGModel;
+   
         }
     }
 }

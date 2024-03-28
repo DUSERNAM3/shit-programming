@@ -1,14 +1,57 @@
-C:\Users\akryl\source\repos\PATTERN BLYAT\PATTERN BLYAT\bin\Debug\net6.0\PATTERN BLYAT.exe
-C:\Users\akryl\source\repos\PATTERN BLYAT\PATTERN BLYAT\bin\Debug\net6.0\PATTERN BLYAT.deps.json
-C:\Users\akryl\source\repos\PATTERN BLYAT\PATTERN BLYAT\bin\Debug\net6.0\PATTERN BLYAT.runtimeconfig.json
-C:\Users\akryl\source\repos\PATTERN BLYAT\PATTERN BLYAT\bin\Debug\net6.0\PATTERN BLYAT.dll
-C:\Users\akryl\source\repos\PATTERN BLYAT\PATTERN BLYAT\bin\Debug\net6.0\PATTERN BLYAT.pdb
-C:\Users\akryl\source\repos\PATTERN BLYAT\PATTERN BLYAT\obj\Debug\net6.0\PATTERN BLYAT.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\akryl\source\repos\PATTERN BLYAT\PATTERN BLYAT\obj\Debug\net6.0\PATTERN BLYAT.AssemblyInfoInputs.cache
-C:\Users\akryl\source\repos\PATTERN BLYAT\PATTERN BLYAT\obj\Debug\net6.0\PATTERN BLYAT.AssemblyInfo.cs
-C:\Users\akryl\source\repos\PATTERN BLYAT\PATTERN BLYAT\obj\Debug\net6.0\PATTERN BLYAT.csproj.CoreCompileInputs.cache
-C:\Users\akryl\source\repos\PATTERN BLYAT\PATTERN BLYAT\obj\Debug\net6.0\PATTERN BLYAT.dll
-C:\Users\akryl\source\repos\PATTERN BLYAT\PATTERN BLYAT\obj\Debug\net6.0\refint\PATTERN BLYAT.dll
-C:\Users\akryl\source\repos\PATTERN BLYAT\PATTERN BLYAT\obj\Debug\net6.0\PATTERN BLYAT.pdb
-C:\Users\akryl\source\repos\PATTERN BLYAT\PATTERN BLYAT\obj\Debug\net6.0\PATTERN BLYAT.genruntimeconfig.cache
-C:\Users\akryl\source\repos\PATTERN BLYAT\PATTERN BLYAT\obj\Debug\net6.0\ref\PATTERN BLYAT.dll
+C:/Users/akryl/source/repos/PATTERN BLYAT/PATTERN BLYAT/bin/Debug/net6.0/PATTERN BLYAT.exe
+C:/Users/akryl/source/repos/PATTERN BLYAT/PATTERN BLYAT/bin/Debug/net6.0/PATTERN BLYAT.deps.json
+C:/Users/akryl/source/repos/PATTERN BLYAT/PATTERN BLYAT/bin/Debug/net6.0/PATTERN BLYAT.runtimeconfig.json
+C:/Users/akryl/source/repos/PATTERN BLYAT/PATTERN BLYAT/bin/Debug/net6.0/PATTERN BLYAT.dll
+C:/Users/akryl/source/repos/PATTERN BLYAT/PATTERN BLYAT/bin/Debug/net6.0/PATTERN BLYAT.pdb
+C:/Users/akryl/source/repos/PATTERN BLYAT/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/akryl/source/repos/PATTERN BLYAT/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.AssemblyInfoInputs.cache
+C:/Users/akryl/source/repos/PATTERN BLYAT/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.AssemblyInfo.cs
+C:/Users/akryl/source/repos/PATTERN BLYAT/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.csproj.CoreCompileInputs.cache
+C:/Users/akryl/source/repos/PATTERN BLYAT/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.dll
+C:/Users/akryl/source/repos/PATTERN BLYAT/PATTERN BLYAT/obj/Debug/net6.0/refint/PATTERN BLYAT.dll
+C:/Users/akryl/source/repos/PATTERN BLYAT/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.pdb
+C:/Users/akryl/source/repos/PATTERN BLYAT/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.genruntimeconfig.cache
+C:/Users/akryl/source/repos/PATTERN BLYAT/PATTERN BLYAT/obj/Debug/net6.0/ref/PATTERN BLYAT.dll
+C:/Users/akryl/Desktop/PATTERN BLYAT/PATTERN BLYAT/bin/Debug/net6.0/PATTERN BLYAT.exe
+C:/Users/akryl/Desktop/PATTERN BLYAT/PATTERN BLYAT/bin/Debug/net6.0/PATTERN BLYAT.deps.json
+C:/Users/akryl/Desktop/PATTERN BLYAT/PATTERN BLYAT/bin/Debug/net6.0/PATTERN BLYAT.runtimeconfig.json
+C:/Users/akryl/Desktop/PATTERN BLYAT/PATTERN BLYAT/bin/Debug/net6.0/PATTERN BLYAT.dll
+C:/Users/akryl/Desktop/PATTERN BLYAT/PATTERN BLYAT/bin/Debug/net6.0/PATTERN BLYAT.pdb
+C:/Users/akryl/Desktop/PATTERN BLYAT/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.csproj.AssemblyReference.cache
+C:/Users/akryl/Desktop/PATTERN BLYAT/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/akryl/Desktop/PATTERN BLYAT/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.AssemblyInfoInputs.cache
+C:/Users/akryl/Desktop/PATTERN BLYAT/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.AssemblyInfo.cs
+C:/Users/akryl/Desktop/PATTERN BLYAT/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.csproj.CoreCompileInputs.cache
+C:/Users/akryl/Desktop/PATTERN BLYAT/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.dll
+C:/Users/akryl/Desktop/PATTERN BLYAT/PATTERN BLYAT/obj/Debug/net6.0/refint/PATTERN BLYAT.dll
+C:/Users/akryl/Desktop/PATTERN BLYAT/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.pdb
+C:/Users/akryl/Desktop/PATTERN BLYAT/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.genruntimeconfig.cache
+C:/Users/akryl/Desktop/PATTERN BLYAT/PATTERN BLYAT/obj/Debug/net6.0/ref/PATTERN BLYAT.dll
+/Users/bob/workst/somshit/c#projects/builder+strategy/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bob/workst/somshit/c#projects/builder+strategy/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.AssemblyInfoInputs.cache
+/Users/bob/workst/somshit/c#projects/builder+strategy/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.AssemblyInfo.cs
+/Users/bob/workst/somshit/c#projects/builder+strategy/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.csproj.CoreCompileInputs.cache
+/Users/bob/workst/somshit/c#projects/builder+strategy/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.dll
+/Users/bob/workst/somshit/c#projects/builder+strategy/PATTERN BLYAT/obj/Debug/net6.0/refint/PATTERN BLYAT.dll
+/Users/bob/workst/somshit/c#projects/builder+strategy/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.pdb
+/Users/bob/workst/somshit/c#projects/builder+strategy/PATTERN BLYAT/bin/Debug/net6.0/PATTERN BLYAT
+/Users/bob/workst/somshit/c#projects/builder+strategy/PATTERN BLYAT/bin/Debug/net6.0/PATTERN BLYAT.deps.json
+/Users/bob/workst/somshit/c#projects/builder+strategy/PATTERN BLYAT/bin/Debug/net6.0/PATTERN BLYAT.runtimeconfig.json
+/Users/bob/workst/somshit/c#projects/builder+strategy/PATTERN BLYAT/bin/Debug/net6.0/PATTERN BLYAT.dll
+/Users/bob/workst/somshit/c#projects/builder+strategy/PATTERN BLYAT/bin/Debug/net6.0/PATTERN BLYAT.pdb
+/Users/bob/workst/somshit/c#projects/builder+strategy/PATTERN BLYAT/obj/Debug/net6.0/PATTERN BLYAT.genruntimeconfig.cache
+/Users/bob/workst/somshit/c#projects/builder+strategy/PATTERN BLYAT/obj/Debug/net6.0/ref/PATTERN BLYAT.dll
+C:\Users\akryl\OneDrive\Рабочий стол\builder+strategy\PATTERN BLYAT\bin\Debug\net6.0\PATTERN BLYAT.exe
+C:\Users\akryl\OneDrive\Рабочий стол\builder+strategy\PATTERN BLYAT\bin\Debug\net6.0\PATTERN BLYAT.deps.json
+C:\Users\akryl\OneDrive\Рабочий стол\builder+strategy\PATTERN BLYAT\bin\Debug\net6.0\PATTERN BLYAT.runtimeconfig.json
+C:\Users\akryl\OneDrive\Рабочий стол\builder+strategy\PATTERN BLYAT\bin\Debug\net6.0\PATTERN BLYAT.dll
+C:\Users\akryl\OneDrive\Рабочий стол\builder+strategy\PATTERN BLYAT\bin\Debug\net6.0\PATTERN BLYAT.pdb
+C:\Users\akryl\OneDrive\Рабочий стол\builder+strategy\PATTERN BLYAT\obj\Debug\net6.0\PATTERN BLYAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akryl\OneDrive\Рабочий стол\builder+strategy\PATTERN BLYAT\obj\Debug\net6.0\PATTERN BLYAT.AssemblyInfoInputs.cache
+C:\Users\akryl\OneDrive\Рабочий стол\builder+strategy\PATTERN BLYAT\obj\Debug\net6.0\PATTERN BLYAT.AssemblyInfo.cs
+C:\Users\akryl\OneDrive\Рабочий стол\builder+strategy\PATTERN BLYAT\obj\Debug\net6.0\PATTERN BLYAT.csproj.CoreCompileInputs.cache
+C:\Users\akryl\OneDrive\Рабочий стол\builder+strategy\PATTERN BLYAT\obj\Debug\net6.0\PATTERN BLYAT.dll
+C:\Users\akryl\OneDrive\Рабочий стол\builder+strategy\PATTERN BLYAT\obj\Debug\net6.0\refint\PATTERN BLYAT.dll
+C:\Users\akryl\OneDrive\Рабочий стол\builder+strategy\PATTERN BLYAT\obj\Debug\net6.0\PATTERN BLYAT.pdb
+C:\Users\akryl\OneDrive\Рабочий стол\builder+strategy\PATTERN BLYAT\obj\Debug\net6.0\PATTERN BLYAT.genruntimeconfig.cache
+C:\Users\akryl\OneDrive\Рабочий стол\builder+strategy\PATTERN BLYAT\obj\Debug\net6.0\ref\PATTERN BLYAT.dll

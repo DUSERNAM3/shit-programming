@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PATTERN
 {
-    internal class ClassNames
+    public class ClassNames
     {
         public string cname { get; set; }
     }

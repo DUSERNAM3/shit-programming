@@ -12,7 +12,7 @@ namespace PATTERN
     {
         public override void SetHP()
         {
-            //не используется;
+            this.RPGModel.HP = new HP { value = 0 };
         }
         public override void SetMP()
         {
@@ -36,7 +36,7 @@ namespace PATTERN
         }
         public override void SetWeapon()
         {
-            //не используется
+            this.RPGModel.SetStrategy(healer);
         }
     }
 }

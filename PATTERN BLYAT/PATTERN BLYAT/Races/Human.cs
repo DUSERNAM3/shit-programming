@@ -16,7 +16,7 @@ namespace PATTERN
         }
         public override void SetMP()
         {
-            // не используется
+            this.RPGModel.MP = new MP { value = 0 };
         }
         public override void SetClassName()
         {
@@ -41,20 +41,24 @@ namespace PATTERN
                 Console.Write("Какое оружие хотите экипировать?\n" +
                 "1) Меч\n" +
                 "2) Лук\n" +
-                "3) Книга магии (Бесполезный предмет для людей)\n");
+                "3) Книга исцеления\n");
                 switch (Convert.ToInt32(Console.ReadLine()))
                 {
                     case 1:
-                        this.RPGModel.Weapon = new Sword { power = 10 };
-                        this.RPGModel.Weapon.name = "Sword";
+                        this.RPGModel.Weapon = new Sword { power = 50 };
+                        this.RPGModel.Weapon.name = "MegaSword";
+                        this.RPGModel.SetStrategy(warrior);
                         return;
                     case 2:
-                        this.RPGModel.Weapon = new Bow { power = 10 };
-                        this.RPGModel.Weapon.name = "Bow";
+                        this.RPGModel.Weapon = new Bow { power = 1000 };
+                        this.RPGModel.Weapon.name = "MegaBow";
+                        this.RPGModel.SetStrategy(archer);
                         return;
                     case 3:
-                        this.RPGModel.Weapon = new MagicBook { power = 0 };
-                        this.RPGModel.Weapon.name = "MagicBook";
+                        this.RPGModel.MP.value = 100;
+                        this.RPGModel.Weapon = new HealBook { power = 0 };
+                        this.RPGModel.Weapon.name = "HealBook";
+                        this.RPGModel.SetStrategy(healer);
                         return;
                     default:
                         Console.WriteLine("Введена неправильная команда.\n\tПопробуйте снова");

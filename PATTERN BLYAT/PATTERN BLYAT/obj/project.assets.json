@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akryl\\source\\repos\\PATTERN BLYAT\\PATTERN BLYAT\\PATTERN BLYAT.csproj",
+      "projectUniqueName": "C:\\Users\\akryl\\OneDrive\\Рабочий стол\\builder+strategy\\PATTERN BLYAT\\PATTERN BLYAT.csproj",
       "projectName": "PATTERN BLYAT",
-      "projectPath": "C:\\Users\\akryl\\source\\repos\\PATTERN BLYAT\\PATTERN BLYAT\\PATTERN BLYAT.csproj",
+      "projectPath": "C:\\Users\\akryl\\OneDrive\\Рабочий стол\\builder+strategy\\PATTERN BLYAT\\PATTERN BLYAT.csproj",
       "packagesPath": "C:\\Users\\akryl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akryl\\source\\repos\\PATTERN BLYAT\\PATTERN BLYAT\\obj\\",
+      "outputPath": "C:\\Users\\akryl\\OneDrive\\Рабочий стол\\builder+strategy\\PATTERN BLYAT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akryl\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -7,8 +7,9 @@ using PATTERN;
 
 namespace PATTERN
 {
-    internal class RPGStats
+    public class RPGProduct
     {
+        public ICharacterStrategy strategy;
         // ХП
         public HP HP { get; set; }
         // Мана
@@ -23,12 +24,20 @@ namespace PATTERN
             //Name
             if (Name != null) SB.AppendLine("Имя: " + Name.name);
             else SB.AppendLine("Имя: NONE");
-            //ClassName
+            //Race
             if (ClassName != null) SB.AppendLine("Раса: " + ClassName.cname);
             else SB.AppendLine("Раса: NONE");
+            //Class
+            if (strategy != null)
+            {
+                if (strategy is WarriorStrategy) SB.AppendLine("Класс: Воин");
+                else if (strategy is ArcherStrategy) SB.AppendLine("Класс: Лучник");
+                else SB.AppendLine("Класс: Целитель");
+            }
+            else SB.AppendLine("Бедолага, без класса");
             //HP
-            if (HP != null) SB.AppendLine("HP = " + HP.value);
-            else SB.AppendLine("Не имеет HP, бессмертен");
+            if (HP.value > 0) SB.AppendLine("HP = " + HP.value);
+            else SB.AppendLine("Мертв");
             //MP
             if (MP != null) SB.AppendLine("MP = " + MP.value);
             else SB.AppendLine("Не имеет ману, не обладает магией");
@@ -36,6 +45,25 @@ namespace PATTERN
             if (Weapon != null) SB.AppendLine("Оружие = " + Weapon.name + "; " + "Сила = " + Weapon.power);
             else SB.AppendLine("Не имеет оружия");
             return SB.ToString();
+        }
+        public void SetStrategy(ICharacterStrategy strategy)
+        {
+            this.strategy = strategy;
+        }
+
+        public void Attack(RPGProduct defender)
+        {
+            strategy.Attack(this, defender);
+        }
+
+        public void Defend(RPGProduct attacker)
+        {
+            strategy.Defend(attacker, this);
+        }
+
+        public void Heal(RPGProduct target)
+        {
+            strategy.Heal(this, target);
         }
     }
 }

@@ -41,20 +41,23 @@ namespace PATTERN
                 Console.Write("Какое оружие хотите экипировать?\n" +
                 "1) Меч (Для эльфов неэффективно)\n" +
                 "2) Лук\n" +
-                "3) Книга магии\n");
+                "3) Книга исцеления\n");
                 switch (Convert.ToInt32(Console.ReadLine()))
                 {
                     case 1:
                         this.RPGModel.Weapon = new Sword { power = 5 };
                         this.RPGModel.Weapon.name = "Sword";
+                        this.RPGModel.SetStrategy(warrior);
                         return;
                     case 2:
                         this.RPGModel.Weapon = new Bow { power = 10 };
                         this.RPGModel.Weapon.name = "Bow";
+                        this.RPGModel.SetStrategy(archer);
                         return;
                     case 3:
-                        this.RPGModel.Weapon = new MagicBook { power = 10 };
-                        this.RPGModel.Weapon.name = "MagicBook";
+                        this.RPGModel.Weapon = new HealBook { power = 0};
+                        this.RPGModel.Weapon.name = "HealBook";
+                        this.RPGModel.SetStrategy(healer);
                         return;
                     default:
                         Console.WriteLine("Введена неправильная команда.\n\tПопробуйте снова");
